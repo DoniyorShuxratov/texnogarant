@@ -1,0 +1,46 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "",
+            "title": "Vision",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Lorem ipsum dolor fit amet"
+        },
+        {
+            "id": 2,
+            "src": "",
+            "title": "Points",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lectus risus, finibus ornare vestibulum et, feugiat quis dui."
+        },
+        {
+            "id": 3,
+            "src": "",
+            "title": "Goals",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Vivamus sit amet dolor et magna facilisis rhoncus."
+        },
+        {
+            "id": 4,
+            "src": "",
+            "title": "Designs",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Curabitur maximus est sed porta scelerisque. Sed suscipit, arcu volutpat feugiat posuere, eros nisi tristique nibh, mollis vehicula lectus tortor eu purus. Donec ut tortor blandit, sagittis diam eget, suscipit eros."
+        },
+        {
+            "id": 5,
+            "src": "",
+            "title": "PM",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Lorem ipsum dolor fit amet"
+        },
+        {
+            "id": 6,
+            "src": "",
+            "title": "3D design",
+            "subtext": "Lorem ipsum dolor fit amet",
+            "description": "Lorem ipsum dolor fit amet"
+        }
+    ]
+}
